@@ -3,9 +3,9 @@ Hi there <br>
 I am a master degree's student of Computer Engineering course of the University of Rome - Tor Vergata.<br>
 In this github profile you can found all of my projects for the courses that i followed.<br>
 ## :fire: My Stats and Activity Graph:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kobero98&theme=dark&background=000000)](https://git.io/streak-stats)
-[![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=kobero98&theme=react-dark)](https://github.com/kobero98)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobero98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kobero98&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobero98&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobero98&theme=dark&hide_border=true)
 
 ### :hammer_and_wrench: Languages and Tools:
 
